@@ -46,5 +46,5 @@ Práce na webu je v aktivním vývoji. V dalších fázích bude doplněna optim
 
 ## 📬 Kontakt
 
-Pro více informací nebo spolupráci mě můžete kontaktovat na [tvůj email nebo GitHub profil].
+Pro více informací nebo spolupráci mě můžete kontaktovat na tomasagel71@gmail.com.
 
